@@ -1,1 +1,1 @@
-echo "# python-test" >> README.md
+# python-test
