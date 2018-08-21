@@ -14,3 +14,4 @@ data = map(int, input('data: ').split())
 mat = [*map(list, zip(*[data] * cols))]
 print(rows, cols)
 print(mat)
+#test
